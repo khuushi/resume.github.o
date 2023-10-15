@@ -1,2 +1,1 @@
-# resume.github.o
-my resume
+Personal Static Website
